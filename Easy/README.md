@@ -1,4 +1,6 @@
-# Questions
+<h1 align="center" type="color:red;">Questions</h1>
+<h3 align="center">[ 🔍 Search Question By The Question Number Given In LeetCode ]<h3>
+<h2></h2>
 
 [1. Two Sum](https://github.com/yashshrivastavaa/leetCode-Solution/blob/3e7c01180e316537ed96d9f33f8871abea1113ab/Easy/Solutions/1-Two-Sum.md)
 
@@ -14,3 +16,4 @@
 [1920. Build Array from Permutation](https://github.com/yashshrivastavaa/leetCode-Solution/blob/0b41bfab3467035598c4d7fc6b66258d8809d214/Easy/Solutions/1920-Build-Array-from-Permutation.md)
 
 [1929. Concatenation of Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/c02c8dd51d93fe2e5c378861855766ea8d6dc3c5/Easy/Solutions/1929-Concatenation-of-Array.md)
+
