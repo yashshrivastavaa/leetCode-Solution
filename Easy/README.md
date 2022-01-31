@@ -2,6 +2,8 @@
 
 [1. Two Sum](https://github.com/yashshrivastavaa/leetCode-Solution/blob/3e7c01180e316537ed96d9f33f8871abea1113ab/Easy/Solutions/1-Two-Sum.md)
 
+[566. Reshape the Matrix](https://github.com/yashshrivastavaa/leetCode-Solution/blob/127df884b9497d75e472e9a5ad6a29048624940e/Easy/Solutions/566-Reshape-the-Matrix.md)
+
 [1470. Shuffle the Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/c8eba0a8440655139ffd80495e34537848820710/Easy/Solutions/1470-Shuffle-the-Array.md)
 
 [1480. Running Sum of 1d Array
