@@ -1,4 +1,4 @@
-## Questions
+# Questions
 
 
 [1470. Shuffle the Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/c8eba0a8440655139ffd80495e34537848820710/Easy/Solutions/1470-Shuffle-the-Array.md)
