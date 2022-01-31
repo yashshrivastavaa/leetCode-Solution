@@ -22,8 +22,8 @@ class Solution:
     return nums * 2
 ```
 
-## C==
-``cpp
+## C++
+```cpp
 class Solution {
  public:
   vector<int> getConcatenation(vector<int>& nums) {
