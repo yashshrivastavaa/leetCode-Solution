@@ -8,6 +8,11 @@
 **<h3 align="center">LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. </h3>**
 
 
+## License
+
+[MIT](https://github.com/yashshrivastavaa/leetCode-Solution/blob/ea0a361578a4eb7eb5d17eeb142978f5b99a0d30/LICENSE)
+
 ## Support
 
 For support, or to join as contributor email shrivastavayash92@gmail.com
+
