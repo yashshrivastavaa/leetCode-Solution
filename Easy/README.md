@@ -1,6 +1,6 @@
 # Questions
 
-[1. Two Sum](https://github.com/yashshrivastavaa/leetCode-Solution/blob/f08999215139bb9b9614d871fc9a38e53a66d376/Easy/Solutions/1-Two-Sum.md)
+[1. Two Sum](https://github.com/yashshrivastavaa/leetCode-Solution/blob/3e7c01180e316537ed96d9f33f8871abea1113ab/Easy/Solutions/1-Two-Sum.md)
 
 [1470. Shuffle the Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/c8eba0a8440655139ffd80495e34537848820710/Easy/Solutions/1470-Shuffle-the-Array.md)
 
