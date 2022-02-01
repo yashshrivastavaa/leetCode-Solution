@@ -13,7 +13,7 @@
 
 Contributions are always welcome!
 
-See [`Support`](https://github.com/yashshrivastavaa/leetCode-Solution#support) for ways to get started.
+See [```CONTRIBUTION.md```](https://github.com/yashshrivastavaa/leetCode-Solution/blob/104fe670e698517962cd5266ebe981dd36165e61/CONTRIBUTION.md) for ways to get started.
 
 
 
