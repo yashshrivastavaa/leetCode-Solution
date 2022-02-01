@@ -5,6 +5,8 @@
 [1. Two Sum](https://github.com/yashshrivastavaa/leetCode-Solution/blob/3e7c01180e316537ed96d9f33f8871abea1113ab/Easy/Solutions/1-Two-Sum.md)
 
 [69. Sqrt(x)](https://github.com/yashshrivastavaa/leetCode-Solution/blob/29311195aa2380a4e4b5400e425d8b5bd8616602/Easy/Solutions/69-Sqrt(x).md)  
+ 
+  [374. Guess Number Higher or Lower](https://github.com/yashshrivastavaa/leetCode-Solution/blob/77c41579ceda69c6c52c6b53ed57966f3786b54a/Easy/Solutions/374-Guess-Number-Higher-or-Lower.md)
   
 [566. Reshape the Matrix](https://github.com/yashshrivastavaa/leetCode-Solution/blob/127df884b9497d75e472e9a5ad6a29048624940e/Easy/Solutions/566-Reshape-the-Matrix.md)
 
