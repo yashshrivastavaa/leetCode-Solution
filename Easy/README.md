@@ -4,6 +4,8 @@
 
 [1. Two Sum](https://github.com/yashshrivastavaa/leetCode-Solution/blob/3e7c01180e316537ed96d9f33f8871abea1113ab/Easy/Solutions/1-Two-Sum.md)
 
+[69. Sqrt(x)](https://github.com/yashshrivastavaa/leetCode-Solution/blob/29311195aa2380a4e4b5400e425d8b5bd8616602/Easy/Solutions/69-Sqrt(x).md)  
+  
 [566. Reshape the Matrix](https://github.com/yashshrivastavaa/leetCode-Solution/blob/127df884b9497d75e472e9a5ad6a29048624940e/Easy/Solutions/566-Reshape-the-Matrix.md)
 
 [744. Find Smallest Letter Greater Than Target](https://github.com/yashshrivastavaa/leetCode-Solution/blob/84a0843e497b8493d6d6dfa1fe2f207c640eaea1/Easy/Solutions/744-Find-Smallest-Letter-Greater-Than-Target.md)
