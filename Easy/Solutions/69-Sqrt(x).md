@@ -5,10 +5,7 @@
 ```Java
 class Solution {
     public int mySqrt(int x) {
-        
         // return (int)Math.sqrt(x); // Here we are not allowed to use this!!
-
-        
         long start = 0;
         long end = x;
         
@@ -22,7 +19,6 @@ class Solution {
                 end = mid;
             }
         }
-        
         if (end * end == x) {
             return (int)end;
         }
