@@ -6,6 +6,8 @@
 
 [69. Sqrt(x)](https://github.com/yashshrivastavaa/leetCode-Solution/blob/29311195aa2380a4e4b5400e425d8b5bd8616602/Easy/Solutions/69-Sqrt(x).md)  
 
+ [167. Two Sum II - Input Array Is Sorted](https://github.com/yashshrivastavaa/leetCode-Solution/blob/49142ac88033a6458c74d1588453c07809946fea/Easy/Solutions/167-Two-Sum-II-Input-Array-Is-Sorted.md)
+ 
  [278. First Bad Version](https://github.com/yashshrivastavaa/leetCode-Solution/blob/847079fb6160c89614139990584bdacb8d83575d/Easy/Solutions/278-First-Bad-Version.md)
  
 [374. Guess Number Higher or Lower](https://github.com/yashshrivastavaa/leetCode-Solution/blob/77c41579ceda69c6c52c6b53ed57966f3786b54a/Easy/Solutions/374-Guess-Number-Higher-or-Lower.md)
