@@ -14,6 +14,8 @@
  
  [374. Guess Number Higher or Lower](https://github.com/yashshrivastavaa/leetCode-Solution/blob/77c41579ceda69c6c52c6b53ed57966f3786b54a/Easy/Solutions/374-Guess-Number-Higher-or-Lower.md)
   
+ [441. Arranging Coins](https://github.com/yashshrivastavaa/leetCode-Solution/blob/b2df08ea1eb0ea73162affd16958dfa6ff8fc9dc/Easy/Solutions/441-Arranging-Coins.md)
+ 
  [566. Reshape the Matrix](https://github.com/yashshrivastavaa/leetCode-Solution/blob/127df884b9497d75e472e9a5ad6a29048624940e/Easy/Solutions/566-Reshape-the-Matrix.md)
 
  [744. Find Smallest Letter Greater Than Target](https://github.com/yashshrivastavaa/leetCode-Solution/blob/84a0843e497b8493d6d6dfa1fe2f207c640eaea1/Easy/Solutions/744-Find-Smallest-Letter-Greater-Than-Target.md)
