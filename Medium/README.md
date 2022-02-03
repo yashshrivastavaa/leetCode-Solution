@@ -10,4 +10,8 @@
   
   [34. Find First and Last Position of Element in Sorted Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/4d991534341dece94de4f03fc0ecf226141df452/Medium/Solutions/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)
   
+  [55. Jump Game](https://github.com/yashshrivastavaa/leetCode-Solution/blob/8abc4cc2a19b60984491526942d1d6a9daa83f9d/Medium/Solutions/55-Jump-Game.md)
+  
+  [73. Set Matrix Zeroes](https://github.com/yashshrivastavaa/leetCode-Solution/blob/ed8057f93a0be4afc6808ecbd25f0123b2bea2c4/Medium/Solutions/73-Set-Matrix-Zeroes.md)
+  
   
