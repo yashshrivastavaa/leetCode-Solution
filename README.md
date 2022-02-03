@@ -19,7 +19,7 @@ See [```CONTRIBUTION.md```](https://github.com/yashshrivastavaa/leetCode-Solutio
 
 ## 📄License
 
-LweetCode Solution is published to Github under the ***MIT*** license. See the [LICENSE](https://github.com/yashshrivastavaa/leetCode-Solution/blob/ea0a361578a4eb7eb5d17eeb142978f5b99a0d30/LICENSE) file for license rights and limitations.
+LeetCode Solution is published to Github under the ***MIT*** license. See the [LICENSE](https://github.com/yashshrivastavaa/leetCode-Solution/blob/ea0a361578a4eb7eb5d17eeb142978f5b99a0d30/LICENSE) file for license rights and limitations.
 
 
 ## 👍Support
