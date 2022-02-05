@@ -10,8 +10,15 @@
   
   [34. Find First and Last Position of Element in Sorted Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/4d991534341dece94de4f03fc0ecf226141df452/Medium/Solutions/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)
   
+  [48. Rotate Image](https://github.com/yashshrivastavaa/leetCode-Solution/blob/3cea8b3ba6df24ce14f4689e6e3c701426ddae16/Medium/Solutions/48.%20Rotate%20Image.md)
+  
   [55. Jump Game](https://github.com/yashshrivastavaa/leetCode-Solution/blob/8abc4cc2a19b60984491526942d1d6a9daa83f9d/Medium/Solutions/55-Jump-Game.md)
   
   [73. Set Matrix Zeroes](https://github.com/yashshrivastavaa/leetCode-Solution/blob/ed8057f93a0be4afc6808ecbd25f0123b2bea2c4/Medium/Solutions/73-Set-Matrix-Zeroes.md)
   
+  [162. Find Peak Element](https://github.com/yashshrivastavaa/leetCode-Solution/blob/f092ecd77fa61d712d375ccca8796fd44c2296a3/Medium/Solutions/162.%20Find%20Peak%20Element.md)
+  
+  [167. Two Sum II - Input Array Is Sorted](https://github.com/yashshrivastavaa/leetCode-Solution/blob/24c2ad9c10db34f7be35b860a06723340f7ae5d4/Medium/Solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
+  
+  [540. Single Element in a Sorted Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/153237913d2a59a42dd5e11885dfcb73558a7b92/Medium/Solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.md)
   
