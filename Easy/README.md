@@ -46,11 +46,37 @@
  
  [1351. Count Negative Numbers in a Sorted Matrix](https://github.com/yashshrivastavaa/leetCode-Solution/blob/6c1e5c7ae085002647c26200647f46be87ad9169/Easy/Solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)
  
+ [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/yashshrivastavaa/leetCode-Solution/blob/73fa0c13db5fea1a5f9927fd12e5a5927b603fb9/Easy/Solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.md)
+ 
+ [1380. Lucky Numbers in a Matrix](https://github.com/yashshrivastavaa/leetCode-Solution/blob/22923bbd504419615e46333202b740e07432e9c2/Easy/Solutions/1380.%20Lucky%20Numbers%20in%20a%20Matrix.md)
+ 
+ [1389. Create Target Array in the Given Order](https://github.com/yashshrivastavaa/leetCode-Solution/blob/20461197f2ff206273925f7088d57c6767c4adbe/Easy/Solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.md)
+ 
+ [1431. Kids With the Greatest Number of Candies](https://github.com/yashshrivastavaa/leetCode-Solution/blob/4e15d22f59fb6c096ef0bb892f5a3d4ea69193d5/Easy/Solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md)
+ 
  [1470. Shuffle the Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/c8eba0a8440655139ffd80495e34537848820710/Easy/Solutions/1470-Shuffle-the-Array.md)
 
  [1480. Running Sum of 1d Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/12b4e5b9e8bd9ddb805360615a07bd98be938d36/Easy/Solutions/1480-Running-Sum-of-1d-Array.md)
 
+ [1512. Number of Good Pairs](https://github.com/yashshrivastavaa/leetCode-Solution/blob/25d4d3251bbc9b7d61fe20fd614998fc8603ddb2/Easy/Solutions/1512.%20Number%20of%20Good%20Pairs.md)
+ 
  [1539. Kth Missing Positive Number](https://github.com/yashshrivastavaa/leetCode-Solution/blob/f640a8bf32878fa06b0e5aa7dedc667194ed79d4/Easy/Solutions/1539-Kth-Missing-Positive-Number.md)
+ 
+ [1572. Matrix Diagonal Sum](https://github.com/yashshrivastavaa/leetCode-Solution/blob/abd1b2271f3e7161ab8556aa2750fd76fd85113c/Easy/Solutions/1572.%20Matrix%20Diagonal%20Sum.md)
+ 
+ [1608. Special Array With X Elements Greater Than or Equal X](https://github.com/yashshrivastavaa/leetCode-Solution/blob/0f0f8152cc5e4ae432661a4f1ec7d865eee866ca/Easy/Solutions/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.md)
+ 
+ [1672. Richest Customer Wealth](https://github.com/yashshrivastavaa/leetCode-Solution/blob/bdb1e782575f6ddb3011f235e46a11444dc44b2d/Easy/Solutions/1672.%20Richest%20Customer%20Wealth.md)
+ 
+ [1732. Find the Highest Altitude](https://github.com/yashshrivastavaa/leetCode-Solution/blob/42ce33abf2c8b466394a23e169c3f462782dce79/Easy/Solutions/1732.%20Find%20the%20Highest%20Altitude.md)
+ 
+ [1773. Count Items Matching a Rule](https://github.com/yashshrivastavaa/leetCode-Solution/blob/2eccd7c53ea8b78a93f4c49e16402c97ee4579ab/Easy/Solutions/1773.%20Count%20Items%20Matching%20a%20Rule.md)
+ 
+ [1832. Check if the Sentence Is Pangram](https://github.com/yashshrivastavaa/leetCode-Solution/blob/02cb68fc705734fd3b2937b4842189bc9dd32af1/Easy/Solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.md)
+ 
+ [1854. Maximum Population Year](https://github.com/yashshrivastavaa/leetCode-Solution/blob/ce6d01172d3240e9d9ca98e474aef61d004360fc/Easy/Solutions/1854.%20Maximum%20Population%20Year.md)
+ 
+ [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/yashshrivastavaa/leetCode-Solution/blob/f278f4c9a07b08a9896132d702cec67fb003d15c/Easy/Solutions/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.md)
  
  [1920. Build Array from Permutation](https://github.com/yashshrivastavaa/leetCode-Solution/blob/0b41bfab3467035598c4d7fc6b66258d8809d214/Easy/Solutions/1920-Build-Array-from-Permutation.md)
 
