@@ -6,6 +6,8 @@
 
  [35. Search Insert Position](https://github.com/yashshrivastavaa/leetCode-Solution/blob/4e8d6800b577193543a3e3feab6afd9ef0490c9e/Easy/Solutions/35-Search-Insert-Position.md)
  
+ [53. Maximum Subarray](https://github.com/yashshrivastavaa/leetCode-Solution/blob/aeae0032e9357d260f719b11177c7110a634d1b9/Easy/Solutions/53-Maximum-Subarray.md)
+ 
  [69. Sqrt(x)](https://github.com/yashshrivastavaa/leetCode-Solution/blob/29311195aa2380a4e4b5400e425d8b5bd8616602/Easy/Solutions/69-Sqrt(x).md)  
 
  [167. Two Sum II - Input Array Is Sorted](https://github.com/yashshrivastavaa/leetCode-Solution/blob/49142ac88033a6458c74d1588453c07809946fea/Easy/Solutions/167-Two-Sum-II-Input-Array-Is-Sorted.md)
