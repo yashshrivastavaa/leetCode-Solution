@@ -22,8 +22,30 @@
  
  [566. Reshape the Matrix](https://github.com/yashshrivastavaa/leetCode-Solution/blob/127df884b9497d75e472e9a5ad6a29048624940e/Easy/Solutions/566-Reshape-the-Matrix.md)
 
+ [704. Binary Search](https://github.com/yashshrivastavaa/leetCode-Solution/blob/f830fdfd219ab18265b52659fce1e9070f0e20dc/Easy/Solutions/704-Binary-Search.md)
+ 
  [744. Find Smallest Letter Greater Than Target](https://github.com/yashshrivastavaa/leetCode-Solution/blob/84a0843e497b8493d6d6dfa1fe2f207c640eaea1/Easy/Solutions/744-Find-Smallest-Letter-Greater-Than-Target.md)
 
+ [832. Flipping an Image](https://github.com/yashshrivastavaa/leetCode-Solution/blob/4b7b447c5b7297500693352ecbf267cf15b329be/Easy/Solutions/832-Flipping-an-Image.md)
+ 
+ [852. Peak Index in a Mountain Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/f1fe312ced2f77c6830d00a8543c510adb4c7879/Easy/Solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)
+ 
+ [867. Transpose Matrix](https://github.com/yashshrivastavaa/leetCode-Solution/blob/9959a97cfa44981b6e54e49ee4128745eaaf2f92/Easy/Solutions/867.%20Transpose%20Matrix.md)
+ 
+ [941. Valid Mountain Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/1ab4183c18292060bfabeeaa483cbef3c47c3a4e/Easy/Solutions/941.%20Valid%20Mountain%20Array.md)
+ 
+ [989. Add to Array-Form of Integer](https://github.com/yashshrivastavaa/leetCode-Solution/blob/1207eabf466e2908ac7af48c0bc240ec17fcba9c/Easy/Solutions/989.%20Add%20to%20Array-Form%20of%20Integer.md)
+ 
+ [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/yashshrivastavaa/leetCode-Solution/blob/699287de364d3050b0c6e4550d8647e5da5df6c0/Easy/Solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md)
+ 
+ [1295. Find Numbers with Even Number of Digits](https://github.com/yashshrivastavaa/leetCode-Solution/blob/ff2e21d9e7e8a326960b41396196305d9659ea17/Easy/Solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.md)
+ 
+ [1304. Find N Unique Integers Sum up to Zero](https://github.com/yashshrivastavaa/leetCode-Solution/blob/a3151dc920246e801a3b4ba0b88872164bd13662/Easy/Solutions/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.md)
+ 
+ [1346. Check If N and Its Double Exist](https://github.com/yashshrivastavaa/leetCode-Solution/blob/b5d06073479d590a84b7283fcdacbeb059c5f609/Easy/Solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.md)
+ 
+ [1351. Count Negative Numbers in a Sorted Matrix](https://github.com/yashshrivastavaa/leetCode-Solution/blob/6c1e5c7ae085002647c26200647f46be87ad9169/Easy/Solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)
+ 
  [1470. Shuffle the Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/c8eba0a8440655139ffd80495e34537848820710/Easy/Solutions/1470-Shuffle-the-Array.md)
 
  [1480. Running Sum of 1d Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/12b4e5b9e8bd9ddb805360615a07bd98be938d36/Easy/Solutions/1480-Running-Sum-of-1d-Array.md)
