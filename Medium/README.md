@@ -12,6 +12,8 @@
   
   [48. Rotate Image](https://github.com/yashshrivastavaa/leetCode-Solution/blob/3cea8b3ba6df24ce14f4689e6e3c701426ddae16/Medium/Solutions/48.%20Rotate%20Image.md)
   
+  [54. Spiral Matrix](https://github.com/yashshrivastavaa/leetCode-Solution/blob/bbcbbdce2f1d3e7d2b83de518d6803dae7180311/Medium/Solutions/54.%20Spiral%20Matrix.md)
+  
   [55. Jump Game](https://github.com/yashshrivastavaa/leetCode-Solution/blob/8abc4cc2a19b60984491526942d1d6a9daa83f9d/Medium/Solutions/55-Jump-Game.md)
   
   [73. Set Matrix Zeroes](https://github.com/yashshrivastavaa/leetCode-Solution/blob/ed8057f93a0be4afc6808ecbd25f0123b2bea2c4/Medium/Solutions/73-Set-Matrix-Zeroes.md)
