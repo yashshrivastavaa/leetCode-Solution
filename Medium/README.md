@@ -2,13 +2,23 @@
 <h3 align="center">[ 🔍 Search Question By The Question Number Given In LeetCode ]<h3>
 <h2></h2>
   
+  [2. Add Two Numbers](https://github.com/yashshrivastavaa/leetCode-Solution/blob/59f8d3aec46951281d8e042ccf075c68c140788b/Medium/Solutions/2-Add-Two-Numbers.md)
+  
+  [3. Longest Substring Without Repeating Characters](https://github.com/yashshrivastavaa/leetCode-Solution/blob/59f8d3aec46951281d8e042ccf075c68c140788b/Medium/Solutions/3-Longest-Substring-Without-Repeating-Characters.md)
+  
+  [7. Reverse Integer](https://github.com/yashshrivastavaa/leetCode-Solution/blob/59f8d3aec46951281d8e042ccf075c68c140788b/Medium/Solutions/7-Reverse-Integer.md)
+  
   [11. Container With Most Water](https://github.com/yashshrivastavaa/leetCode-Solution/blob/b31227c10cdd6a7c5881b8e9b80ab2a32b192476/Medium/Solutions/11-Container-With-Most-Water.md)
   
   [12. Integer to Roman](https://github.com/yashshrivastavaa/leetCode-Solution/blob/3c53fdeefce96a8d51ce39ffdf39efe111b8f778/Medium/Solutions/12-Integer-to-Roman.md)
   
+  [17. Letter Combinations of a Phone Number](https://github.com/yashshrivastavaa/leetCode-Solution/blob/59f8d3aec46951281d8e042ccf075c68c140788b/Medium/Solutions/17-Letter-Combinations-of-a-Phone-Number.md)
+  
   [33. Search in Rotated Sorted Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/a0dc45b834bfd812f8a669b497c5554c5a02bb04/Medium/Solutions/33-Search-in-Rotated-Sorted-Array.md)
   
   [34. Find First and Last Position of Element in Sorted Array](https://github.com/yashshrivastavaa/leetCode-Solution/blob/4d991534341dece94de4f03fc0ecf226141df452/Medium/Solutions/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)
+  
+  [38. Count and Say](https://github.com/yashshrivastavaa/leetCode-Solution/blob/59f8d3aec46951281d8e042ccf075c68c140788b/Medium/Solutions/38-Count-and-Say.md)
   
   [48. Rotate Image](https://github.com/yashshrivastavaa/leetCode-Solution/blob/3cea8b3ba6df24ce14f4689e6e3c701426ddae16/Medium/Solutions/48.%20Rotate%20Image.md)
   
